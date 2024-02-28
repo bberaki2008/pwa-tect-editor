@@ -86,6 +86,12 @@ Please refere to github The MIT License license or to click the link above
 
 ## Link to the Deployed APP <a id="site-link"></a>
 
+https://pwa-text-editor-2.onrender.com/
+
 ## APP Screenshot <a id="app-screenshot"></a>
 
-![Alt Site Screenshot](./public/assets/img/siteScreenshot.png)
+![Alt Site Screenshot](./client/src/images/ScreenshotJate.png)
+
+![Alt App Manifest Screenshot](./client/src/images/ScreenshotJate2.png)
+
+![Alt service Worker Screenshot](./client/src/images/ScreenshotJate2.png)
